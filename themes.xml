@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.Raven" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">#FF1976D2</item>
+        <item name="colorPrimaryVariant">#FF1565C0</item>
+        <item name="colorOnPrimary">@color/white</item>
+    </style>
+</resources>

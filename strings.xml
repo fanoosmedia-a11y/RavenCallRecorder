@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Raven Recorder</string>
+    <string name="notification_title">Raven Active</string>
+    <string name="notification_text">Recording calls...</string>
+    <string name="setup_title">Raven Setup</string>
+    <string name="setup_message">Grant permissions for best recording quality</string>
+</resources>
